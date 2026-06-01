@@ -1,6 +1,6 @@
 # USMoE
 
-Official code for the ICML 2026 paper **"Rethinking Sparse Mixture of Experts
+Official code for the paper **"Rethinking Sparse Mixture of Experts
 from a Unified Perspective"**.
 
 <p align="center">
