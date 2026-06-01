@@ -1,0 +1,1 @@
+bash script/table1/transformer_xl/baselines/SMoE/enwik8_smoe.sh
