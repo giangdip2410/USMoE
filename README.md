@@ -151,10 +151,6 @@ bash script/table1/transformer_xl/baselines/SMoE/wik103_smoe.sh
 bash script/table1/transformer_xl/baselines/SMoE/lm1b_smoe.sh
 ```
 
-The default scripts use `CustomNaiveGate_Balance_SMoE` with 16 experts and
-top-2 routing. You can change the routing setup through options such as
-`--gate_name`, `--moe-num-expert`, `--moe-top-k`, and `--load_balance`.
-
 ## Citation
 
 If you find this repository useful, please cite our paper:
